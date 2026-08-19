@@ -18,9 +18,16 @@ NexQ³.ai is a personal SaaS product concept focused on bringing CRM activities,
 
 **Active development / prototype.** NexQ³.ai is an evolving project and is not a production-ready product. Current work focuses on validating workflows, defining the product structure and developing an initial prototype.
 
-## Related Product: Re-Hustle
+## Product Preview: Re-Hustle
 
-Re-Hustle is a related physical planning and execution product concept designed to support daily planning, focused execution and progress tracking.
+Re-Hustle Candidate Momentum is a related physical execution product: a four-week career-sprint mission booklet paired with a 30-sheet daily execution pad. It is designed to turn goals, applications, skill practice and project work into visible evidence.
+
+<p align="center">
+  <img src="assets/product-images/re-husle-cover.png" alt="Re-Hustle Candidate Momentum cover" width="280">
+  <img src="assets/product-images/re-husle-execution-sheet.png" alt="Re-Hustle daily execution sheet" width="280">
+</p>
+
+[View the Re-Hustle product overview](docs/product-overview.md) | [Open the screen proof](assets/product-documents/re-husle-v1-screen-proof.pdf)
 
 ## Repository Status
 
